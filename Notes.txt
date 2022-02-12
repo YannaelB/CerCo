@@ -1,0 +1,9 @@
+
+Attention ! 
+Il est mieux d'utiliseer miniconda sous Idle pour lancer les programmes. J'ai essayé sur spyder et jupyter mais cela ne 
+fonctionnait pas bien. J'ai mis dans le dossier un pdf pour installer miniconda/idle étape par étape.
+
+!! Il vaut mieux créer un répertoire dans C: avec les programmes pythons puis mettre les dossier excel dans ce même répertoire. 
+Cela épargnera bien des problèmes.
+
+Pour bien comprendre les programmes, il vaut mieux les regarder dans l'ordre (d'abord 1- qui est plus commenté que 2- et 3-
